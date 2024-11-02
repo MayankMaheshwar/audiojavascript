@@ -1,47 +1,50 @@
-h1{
+h1 {
   text-align: right;
-   top: auto;
-   text-decoration: overline;
-   text-shadow: grey;
-   text-indent: inherit;
-   text-overflow: ellipsis;
-   text-transform: uppercase;
-   text-rendering: geometricPrecision;
-   text-align-last: justify;
-   padding:30px;
+  text-decoration: overline;
+  text-transform: uppercase;
+  padding: 30px;
 }
-.mar{
+
+.mar {
   margin-left: 20px;
 }
-.navbarNavDropdown{
+
+.navbarNavDropdown {
   padding-left: 700px;
 }
-.font{
+
+.font {
   font-size: 200px;
-  padding:25px;
-}
-.toggler{
-padding-right: 500px;
-color: red;
+  padding: 25px;
 }
 
-.container-fluid{
+.toggler {
+  padding-right: 500px;
+  color: red;
+}
+
+.container-fluid {
   padding: 40px;
 }
-.fa-2x{
 
-padding:50px;
-background-color: #ff6;
+.fa-2x {
+  padding: 50px;
+  background-color: #ff6;
 }
-.py-3{
+
+.py-3 {
   background-color: #00f;
 }
-.sp{
+
+.sp {
   padding-top: 60px;
 }
-.box{
-  float: center;
+
+.box {
+  display: block;
+  margin: 0 auto;
 }
-#myImg{
-  float:right;
+
+#myImg {
+  float: right;
 }
